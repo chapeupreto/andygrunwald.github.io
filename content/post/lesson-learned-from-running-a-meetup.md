@@ -144,10 +144,10 @@ A lot of them are willing to sponsor you a location / their main hall for your m
 ![Prepared room of the July 2016 meetup](/img/posts/lesson-learned-from-running-a-meetup/meetup-july-2016-room.jpeg)
 
 With the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) we started in a conference room from [TWT](https://www.twt.de/) (a web agency from Düsseldorf).
-After some time we moved to the conference rooms of [trivago](http://www.trivago.com/), because the organizers switched their work place.
+After some time we moved to the conference rooms of [trivago](https://www.trivago.com/), because the organizers switched their work place.
 After ~1 year at trivago, the conference room was getting crowded.
 Luckily trivago offers a big kitchen with everything we need (beamer, audio, chairs, fridge, etc.) for ~200 people.
-Other companies in our area doing exactly this as well (like [sipgate](http://www.sipgate.de/)).
+Other companies in our area doing exactly this as well (like [sipgate](https://www.sipgate.de/)).
 
 **Pro tip**: If you found a location, don't forget to mark the way to the meetup with paper signs. Not everyone knows, where the company is located or where they can find the correct room.
 
@@ -285,7 +285,7 @@ Here are a few companies I know that offer meetup sponsoring:
 
 * [GitHub](https://community.github.com/)
 * [JetBrains](https://www.jetbrains.com/support/community/#section=communities)
-* [t3n](http://t3n.de/) (German digital magazine)
+* [t3n](https://t3n.de/) (German digital magazine)
 * [DigitalOcean](https://www.digitalocean.com/)
 
 ## Welcome and basic instructions

@@ -10,7 +10,7 @@ title = "TYPO3-Analytics is looking for a new name - suggestions welcome!"
 
 At [Apr 19, 2013](https://github.com/andygrunwald/TYPO3-Analytics/commit/b44dd91e359ad55478919cc94278d26fffbdde03) i started [TYPO3-Analytics](https://github.com/andygrunwald/TYPO3-Analytics) to create a prototype or proof of concept to make my first steps in fields data mining / software repository mining, statistics and data visualisation.
 
-At this time i got a big and deep knowledge of the [TYPO3](http://typo3.org/) ecosystem (code, people, tools, systems, processes, events, etc.) and the TYPO3 community manager [ben van 't ende](http://ben.vanten.de/) motivated me to create some metrics ;)
+At this time i got a big and deep knowledge of the [TYPO3](https://typo3.org/) ecosystem (code, people, tools, systems, processes, events, etc.) and the TYPO3 community manager [ben van 't ende](https://ben.vanten.de/) motivated me to create some metrics ;)
 So the first project was TYPO3.
 
 <!--more-->
@@ -68,7 +68,7 @@ Thanks for your help!
 Awesome! I received some name suggestions from different people.
 A **big thanks** to this!
 
-* René Kerner ([@rk3rn3r](https://twitter.com/rk3rn3r)) [suggested](https://twitter.com/rk3rn3r/status/440604026368180224) *knoff-hoff*, related to the german tv show "[Die Knoff-Hoff-Show](http://de.wikipedia.org/wiki/Die_Knoff-Hoff-Show)".
+* René Kerner ([@rk3rn3r](https://twitter.com/rk3rn3r)) [suggested](https://twitter.com/rk3rn3r/status/440604026368180224) *knoff-hoff*, related to the german tv show "[Die Knoff-Hoff-Show](https://de.wikipedia.org/wiki/Die_Knoff-Hoff-Show)".
 * Christoph Moeller ([@npublish_chris](https://twitter.com/npublish_chris)) [mentioned](https://twitter.com/npublish_chris/status/440969565472698368) *Shunkan*, japanase for "moment".
 * Mario Mainz ([@m_mainz](https://twitter.com/m_mainz)) raised some acronyms like *SWARM* (SoftWAre Metrics) or *SWAN* (SoftWare ANalytics), [lazy generated](https://twitter.com/m_mainz/status/440972275597066241) by an [Acronym Creator](http://acronymcreator.net/ace.py).
 * Georg Ringer ([@georg_ringer](https://twitter.com/georg_ringer[)) [twittered](https://twitter.com/georg_ringer/status/441263913896644608) *quatrix*, *quatrics*, *metriquality* and *metaqual*.

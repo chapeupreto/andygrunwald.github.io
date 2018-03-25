@@ -21,7 +21,7 @@ At 3rd March 2014 i wrote a blogpost about this challenge to use the power of th
 
 Next to this blog post i got on my girlfriends nerves with the recurring questions like "What do you think about name x? Or y?".
 And i asked my twitter timeline many times and wondered how for example Apache chose names for their product.
-They [got rules for product names](http://www.apache.org/dev/project-names.html), but i did not found a resource who describes the story about this names.
+They [got rules for product names](https://www.apache.org/dev/project-names.html), but i did not found a resource who describes the story about this names.
 [Ingo](https://twitter.com/irnnr) [mentioned](https://twitter.com/irnnr/status/449367546211221504) that [Tika](https://tika.apache.org/) is one of the project founders’ kid’s toy pet’s name.
 [Scott](https://twitter.com/shirleman) [suggested](https://twitter.com/shirleman/status/449614357022773248) Donk, because it was his stuffed donkey's name as a kid :D
 Anyway.
@@ -39,15 +39,15 @@ I liked the idea and started my research in the mining area ...
 
 ## The new name: *Jacobine*
 
-I was born and live in [Duisburg, Germany](http://en.wikipedia.org/wiki/Duisburg).
-Duisburg is a small town in [North Rhine-Westphalia](http://en.wikipedia.org/wiki/North_Rhine-Westphalia) and part of the Ruhrgebiet.
-Duisburg is very popular for its steel industry and coal mining (see the [Landschaftspark Duisburg-Nord](http://en.wikipedia.org/wiki/Landschaftspark_Duisburg-Nord) or a [list of coal mines in Duisburg](http://de.wikipedia.org/wiki/Liste_von_Bergwerken_in_Nordrhein-Westfalen#Duisburg)).
+I was born and live in [Duisburg, Germany](https://en.wikipedia.org/wiki/Duisburg).
+Duisburg is a small town in [North Rhine-Westphalia](https://en.wikipedia.org/wiki/North_Rhine-Westphalia) and part of the Ruhrgebiet.
+Duisburg is very popular for its steel industry and coal mining (see the [Landschaftspark Duisburg-Nord](https://en.wikipedia.org/wiki/Landschaftspark_Duisburg-Nord) or a [list of coal mines in Duisburg](https://de.wikipedia.org/wiki/Liste_von_Bergwerken_in_Nordrhein-Westfalen#Duisburg)).
 In 1855 an english company started to build a new mine called *Jacobine*.
-It was located in Duisburg-Meiderich near to [Oberhausen](http://en.wikipedia.org/wiki/Oberhausen).
+It was located in Duisburg-Meiderich near to [Oberhausen](https://en.wikipedia.org/wiki/Oberhausen).
 In 1859 the mine have to shutdown, because it was damaged by water.
 11 years later, in 1870, the mine was repaired.
 In 1871 the mine was put into production again under a new name Schacht 1.
-Schacht 1 was part of the bigger mine [Westende](http://de.wikipedia.org/wiki/Zeche_Westende).
+Schacht 1 was part of the bigger mine [Westende](https://de.wikipedia.org/wiki/Zeche_Westende).
 
 Dominik mentioned that the name *Jacobine* got a bad taste, because it was damaged and has to be shutdown.
 Dominik is right, but the mine was repaired and put into production again.

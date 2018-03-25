@@ -16,7 +16,7 @@ This release covers various nice features, enhancements and bugfixes.
 
 Get the new version now! Its hot: [TYPO3-Analytics v0.1.0](https://github.com/andygrunwald/TYPO3-Analytics/releases/tag/v0.1.0)
 
-But what was done in the last [65 days](http://www.timeanddate.com/date/durationresult.html?d1=15&m1=2&y1=2014&d2=19&m2=4&y2=2014&ti=on) and [109 commits](https://github.com/andygrunwald/TYPO3-Analytics/commits/v0.1.0)?
+But what was done in the last [65 days](https://www.timeanddate.com/date/durationresult.html?d1=15&m1=2&y1=2014&d2=19&m2=4&y2=2014&ti=on) and [109 commits](https://github.com/andygrunwald/TYPO3-Analytics/commits/v0.1.0)?
 Some numbers (from the [github compare view](https://github.com/andygrunwald/TYPO3-Analytics/compare/v0.0.1...v0.1.0)):
 
 * 70 changed files
@@ -68,8 +68,8 @@ In the release of version v0.0.1 we defined some goals for the next release (thi
 
 * *code quality*: We have **refactored** many lines of code and extracted them to seperate classes and introduced common **design patterns** like **Factory**. Further more we`ve introduced services like **[scrutinizer](https://scrutinizer-ci.com/)** to get some **numbers about quality**. Standards like **[PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)** were applied.
 * *testing*: **Unit tests** was introduced in this release. The **code coverage** is not very high (**18%**), but 18% are better than nothing! **[TravisCI](https://travis-ci.org/)** was introduced to check the **success** of the unit tests **continuously**.
-* *stability*: Many **bugs** were **fixed** (e.g. Fatal error in GithubLinguist-Logging), external **dependencies updated** (e.g. [Monolog](https://github.com/Seldaek/monolog) from 1.7 to 1.8), **new components introduced** to make use of proven code (e.g. [symfony/process](http://symfony.com/doc/current/components/process.html) component) or **more error checks** added to find some failure faster.
-* *flexibility*: The product is now **released under** the **[MIT license](http://opensource.org/licenses/MIT)** as a permissive free software license. This product can now be official used in several environments (e.g. commercial). We have **removed hardcoded dependencies** (e.g. TYPO3-Related names in Download\\HTTP consumer) or made **more attributes configurable** (e.g. [CVSAnaly](https://github.com/MetricsGrimoire/CVSAnalY) config) or **support more RabbitMQ queue and exchange features** on consumer / producer level.
+* *stability*: Many **bugs** were **fixed** (e.g. Fatal error in GithubLinguist-Logging), external **dependencies updated** (e.g. [Monolog](https://github.com/Seldaek/monolog) from 1.7 to 1.8), **new components introduced** to make use of proven code (e.g. [symfony/process](https://symfony.com/doc/current/components/process.html) component) or **more error checks** added to find some failure faster.
+* *flexibility*: The product is now **released under** the **[MIT license](https://opensource.org/licenses/MIT)** as a permissive free software license. This product can now be official used in several environments (e.g. commercial). We have **removed hardcoded dependencies** (e.g. TYPO3-Related names in Download\\HTTP consumer) or made **more attributes configurable** (e.g. [CVSAnaly](https://github.com/MetricsGrimoire/CVSAnalY) config) or **support more RabbitMQ queue and exchange features** on consumer / producer level.
 * *documentation*: There were **several comments added** to the source code. Every class got a class header comment which **describes** what **the class is responsible** for. Every **consumer** got the **accepted message format** in the docs.
 
 In general this release and the goals was a success.
