@@ -1,6 +1,6 @@
-# [andygrunwald.com](http://andygrunwald.com)
+# [andygrunwald.com](https://andygrunwald.com)
 
-My website [andygrunwald.com](http://andygrunwald.com) based on [Hugo](https://gohugo.io/).
+My website [andygrunwald.com](https://andygrunwald.com) based on [Hugo](https://gohugo.io/).
 
 Most of the following chapters are for the future me, who is not able to remember all things.
 
