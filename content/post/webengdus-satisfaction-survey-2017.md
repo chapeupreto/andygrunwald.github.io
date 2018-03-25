@@ -2,7 +2,7 @@
 draft = false
 title = "Web Engineering DUS: Satisfaction Survey 2017"
 date = 2018-01-15T20:19:01+01:00
-tags = ["meetup", "usergroup", "survey", "webengdus"]
+tags = ["meetup", "usergroup", "webengdus", "Web Engineering Düsseldorf", "phpugdus", "PHP Usergroup Düsseldorf", "survey"]
 categories = ["meetups"]
 featureimage = ""
 menu = ""

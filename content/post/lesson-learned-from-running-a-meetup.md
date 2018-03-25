@@ -1,11 +1,11 @@
 +++
-categories = ["meetups", "lessons learned"]
+categories = ["Meetups", "Lessons learned"]
 date = "2016-10-25T12:15:00+02:00"
 draft = false
 featureimage = "img/posts/lesson-learned-from-running-a-meetup/meetup-october-2013-tobias-schlitt.jpeg"
 titleshadow = true
 menu = ""
-tags = ["meetup", "usergroup", "experience", "lessons learned"]
+s
 title = "Lessons learned from running a local meetup"
 url = "/blog/lesson-learned-from-running-a-local-meetup/"
 +++

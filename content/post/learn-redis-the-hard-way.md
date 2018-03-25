@@ -5,7 +5,7 @@ date = "2017-03-12T15:06:16+01:00"
 title = "Learn Redis the hard way (in production) @ trivago techblog"
 menu = ""
 featureimage = ""
-categories = []
+categories = ["Lessons learned", "Public Speaking"]
 +++
 
 In January this year, I wrote and published an article about our learnings of [redis](https://redis.io/) in production.

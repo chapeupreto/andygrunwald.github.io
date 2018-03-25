@@ -1,5 +1,5 @@
 +++
-categories = ["FOSDEM", "Open Source"]
+categories = ["Conferences", "Open Source"]
 date = "2014-03-21T13:01:50+02:00"
 draft = false
 featureimage = ""
