@@ -17,7 +17,7 @@ params:
   keywords: "backend,infrastructure,operations,devops,web development,web engineering"
   copyright: "Andy Grunwald"
   headerText: "Hi, my name is **Andy Grunwald**, a Software Engineer from Germany with a focus on **Backend and Infrastructure**. I am leading the Software Operations Team at [trivago](https://www.trivago.com/)."
-  gravatar: "andygrunwald@gmail.com"
+  avatar: "img/avatar.jpeg"
   social:
     rss: true
     email: "andygrunwald@gmail.com"
