@@ -11,6 +11,23 @@ permalinks:
 
 SectionPagesMenu: "nav"
 
+pygmentsCodeFences: true
+# See https://help.farbox.com/pygments.html for more examples
+pygmentsStyle: "friendly"
+
+#taxonomies:
+#  tag: tags
+
+related:
+  threshold: 100
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: keywords
+      weight: 10
+    - name: tags
+      weight: 100
+
 params:
   author: "Andy Grunwald"
   description: "Andy Grunwald - Software Engineer from Germany"
