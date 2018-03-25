@@ -11,13 +11,11 @@ permalinks:
 
 SectionPagesMenu: "nav"
 
+# Syntax highlighting
 pygmentsCodeFences: true
-# See https://help.farbox.com/pygments.html for more examples
 pygmentsStyle: "friendly"
 
-#taxonomies:
-#  tag: tags
-
+# Related content feature
 related:
   threshold: 100
   includeNewer: true
