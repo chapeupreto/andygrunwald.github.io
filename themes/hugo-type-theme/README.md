@@ -1,3 +1,12 @@
+### This is a fork
+
+First things first.
+This repository is a fork of [digitalcraftsman/hugo-type-theme](https://github.com/digitalcraftsman/hugo-type-theme).
+
+The `master` branch will be in sync with upstream and is not modified in this repository.
+They `develop` branch is the modified version.
+All modifications that are made to the `develop` branch will be pushed as a PR to upstream (if possible):
+
 ### Type
 
 A free and open-source ~~Jekyll~~ Hugo theme. Great for blogs and easy to customize. This theme is a port of the original [Type theme](https://github.com/rohanchandra/type-theme) made by [Rohan Chandra](https://github.com/rohanchandra). Noteworthy features of this Hugo theme are the integration of a comment-system powered by Disqus, Google Analytics and localization (l10n) support.
