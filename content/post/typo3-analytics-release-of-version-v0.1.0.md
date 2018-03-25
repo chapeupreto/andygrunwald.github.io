@@ -10,7 +10,7 @@ title = "TYPO3-Analytics: Release of version v0.1.0"
 
 The project grows and grows :)
 The next release of [TYPO3-Analytics in version v0.1.0](https://github.com/andygrunwald/TYPO3-Analytics/releases/tag/v0.1.0) is out!
-This release covers various nice features, enhancements and bugfixes.
+This release covers various nice features, enhancements, and bugfixes.
 
 <!--more-->
 
@@ -30,20 +30,20 @@ Here is a list of the most important changes.
 
 * Added a changelog
 * [Consumer Download\\HTTP] Added error check for rename operation
-* [Consumer Analysis\\PHPLoc] Parse output directly without writing a xml file to disk
-* [Consumer Analysis\\CVSAnaly] Moved cvsanaly settings to seperate config file
+* [Consumer Analysis\\PHPLoc] Parse output directly without writing an XML file to disk
+* [Consumer Analysis\\CVSAnaly] Moved cvsanaly settings to separate config file
 * [Consumer] Centralized context generation for logging
-* [Consumer Analysis\\CVSAnaly] Set writable path
+* [Consumer Analysis\\CVSAnaly] Set a writable path
 * Added (useful) information to composer.json about the project
-* [Consumer] Adjusted all consumer to use the new symfony/process component
-* Added symfony/process component and created a ProcessFactory
+* [Consumer] Adjusted all consumer to use the new Symfony/process component
+* Added Symfony/process component and created a ProcessFactory
 * Updated monolog from 1.7.0 to 1.8.0 and updated various dependencies
 * Removed sudo-usage of system calls
 * Changes auto_delete default option for queues to false
 * [Logging] No new line after every log entry. One line per log entry
 * [Consumer] Adjusted all consumer to use the new structure of DLX
 * [Consumer] Added a method to reject a message and reworked consumer to reject messages
-* [Consumer / Producer] Added support for dead lettering of RabbitMQ and reworked setup of queues and exchanges
+* [Consumer / Producer] Added support for the dead lettering of RabbitMQ and reworked setup of queues and exchanges
 * [Consumer Analysis\\GithubLinguist] Fixed fatal error during logging
 * Added a bunch of comments with message formats to every consumer
 * Added class comments to all Commands
@@ -57,12 +57,12 @@ Here is a list of the most important changes.
 * Refactored the AMQPConnection and AMQPMessage into a factory
 * Added PSR-2 as coding guideline standard
 * Added first unit tests for several components
-* Integrated Travis-CI as continuous integration environment
+* Integrated Travis-CI as the continuous integration environment
 * Integrated Versioneye for dependency checks
 * Integrated scrutinizer-ci for code quality analysis
-* [Consumer Crawler\\Gerrit] Add message acknowledgement if no projects are available
+* [Consumer Crawler\\Gerrit] Add message acknowledgment if no projects are available
 
-## Did we reach the goal / roadmap from the v0.0.1 release?
+## Did we reach the goal/roadmap for the v0.0.1 release?
 
 In the release of version v0.0.1 we defined some goals for the next release (this one), but did we reach them? Lets check it:
 
@@ -72,7 +72,7 @@ In the release of version v0.0.1 we defined some goals for the next release (thi
 * *flexibility*: The product is now **released under** the **[MIT license](https://opensource.org/licenses/MIT)** as a permissive free software license. This product can now be official used in several environments (e.g. commercial). We have **removed hardcoded dependencies** (e.g. TYPO3-Related names in Download\\HTTP consumer) or made **more attributes configurable** (e.g. [CVSAnaly](https://github.com/MetricsGrimoire/CVSAnalY) config) or **support more RabbitMQ queue and exchange features** on consumer / producer level.
 * *documentation*: There were **several comments added** to the source code. Every class got a class header comment which **describes** what **the class is responsible** for. Every **consumer** got the **accepted message format** in the docs.
 
-In general this release and the goals was a success.
+In general, this release and the goals was a success.
 One (important) goal was missed: Write more blog posts about the architecture and concepts of this project.
 This goal was missed due to the lack of time.
 Next to this goal during the development of TYPO3-Analytics another open source project CVSAnaly was improved a lot.
@@ -81,12 +81,12 @@ Why? Because TYPO3-Analytics use this tool and we want to use more features of i
 
 ## Roadmap for the next release
 
-Currently there is no strict roadmap for the next release.
+Currently, there is no strict roadmap for the next release.
 But we will try to focus on some things:
 
 * *Find a name*: We are looking for a new name for quite some time (see "TYPO3-Analytics is looking for a new name - suggestions welcome!"). We try to find a new name and apply it to the ecosystem
-* *Make it more production ready*: We try to make the product more production ready. How? Add some more error checks, add some checks if the system is production ready, add a proof of concept for a more easier deployment (e.g. on a amazon cloud). Ideas welcome!
-* *Prove the "productioness"*: We want to start some small analysis of open source projects and create reports for it that other people can see how to use this tool and what is it good for and how amazing such small piece of code can be.
+* *Make it more production ready*: We try to make the product more production ready. How? Add some more error checks, add some checks if the system is production ready, add a proof of concept for a more easier deployment (e.g., on AWS). Ideas welcome!
+* *Prove the "productioness"*: We want to start some small analysis of open source projects and create reports for it that other people can see how to use this tool and what is it good for and how amazing, such small piece of code can be.
 * *Spread the work*: We want to communicate more (on barcamps, conferences, blogs) about it. We want to try to get more / the first external contributor.
 
 If you want to see some features in it, contact me!
@@ -95,16 +95,16 @@ We know that this are hard goals.
 We try to reach as much as possible of them.
 If you want to support us, see the next chapter ;)
 
-## Be part of the the next release
+## Be part of the next release
 
-We are looking for motivated contributors for this project.
+We are looking for motivated contributors to this project.
 You do not have to be a programmer.
-We are looking for designers, frontend people, people for communication, people who got new ideas or want to push some new analysis.
+We are looking for designers, frontend people, people for communication, people who got new ideas or want to push some further analysis.
 
 If you do not have (spare) time for this, we are looking for sponsors as well.
 If you want to push some results, we would be proud to welcome you as a sponsor :)
 
-**If you do not know how to contribute or how to get into it**: I **will offer workshops (for free!)** for TYPO3-Analytics, **how this works**, about the **architecture**, about the **goal**, about the **motivation** or about **stuff you are interested in**.
+**If you do not know how to contribute or how to get into it**: I **will offer workshops (for free!)** for TYPO3-Analytics, **how this works**, about the **architecture,**, about the **goal**, about the **motivation** or about **stuff you are interested in**.
 I can offer rooms in Düsseldorf, Germany for it with internet connection for this.
 If you are interested, just ping me as well.
 

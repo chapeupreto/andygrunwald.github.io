@@ -8,23 +8,23 @@ tags = ["analytics", "development", "Jacobine", "metrics", "open source", "softw
 title = "TYPO3-Analytics is looking for a new name - suggestions welcome!"
 +++
 
-At [Apr 19, 2013](https://github.com/andygrunwald/TYPO3-Analytics/commit/b44dd91e359ad55478919cc94278d26fffbdde03) i started [TYPO3-Analytics](https://github.com/andygrunwald/TYPO3-Analytics) to create a prototype or proof of concept to make my first steps in fields data mining / software repository mining, statistics and data visualisation.
+At [Apr 19, 2013](https://github.com/andygrunwald/TYPO3-Analytics/commit/b44dd91e359ad55478919cc94278d26fffbdde03) I started [TYPO3-Analytics](https://github.com/andygrunwald/TYPO3-Analytics) to create a prototype or proof of concept to make my first steps in fields data mining/software repository mining, statistics, and data visualization.
 
-At this time i got a big and deep knowledge of the [TYPO3](https://typo3.org/) ecosystem (code, people, tools, systems, processes, events, etc.) and the TYPO3 community manager [ben van 't ende](https://ben.vanten.de/) motivated me to create some metrics ;)
+At this time I got an extensive and in-depth knowledge of the [TYPO3](https://typo3.org/) ecosystem (code, people, tools, systems, processes, events, etc.) and the TYPO3 community manager [Ben van 't ende](https://ben.vanten.de/) motivated me to create some metrics ;)
 So the first project was TYPO3.
 
 <!--more-->
 
-For a github repository you need a name.
-So i was in the situation to name my proof of concept.
-Due to the topics above and the missing flash of inspiration i chose the name *TYPO3-Analytics*.
-From my point of view this name does not fit any more for some reasons:
+For a GitHub repository, you need a name.
+I was in the situation to name my proof of concept.
+Due to the topics above and the missing flash of inspiration I chose the name *TYPO3-Analytics*.
+From my point of view this name does not fit anymore for some reasons:
 
- 1. The project aims to use public available information over centralized / standard ways (e.g. APIs). With this in mind it is possible to analyze various projects. Not only TYPO3. The prefix *TYPO3* is not necessary and might be lead to confusion if e.g. [Symfony2](https://github.com/symfony/symfony) will be analyzed.
- 2. The complete project is much more than Analytics. It is about collect and receive data, produce new information and knowledge about this data with the usage of algoritms of data, web and text mining, visualize data and activity in various ways, motivate people to more open source works, say thank you by a wow effect of what a single person has achieved and much more.
+ 1. The project aims to use publicly available information over centralized / standard ways (e.g., APIs). With this in mind, it is possible to analyze various projects. Not only TYPO3. The prefix *TYPO3* is not necessary and might be lead to confusion if, e.g. [Symfony2](https://github.com/symfony/symfony) will be analyzed.
+ 2. The complete project is much more than Analytics. It is about collect and receive data, produce new information and knowledge about this data with the usage of algorithms of data, web and text mining, visualize data and activity in various ways, motivate people to more open source works, say thank you by a wow effect of what a single person has achieved and much more.
 
 This are only two reasons.
-But i think that this are two really good reasons to choose a new name for this baby.
+But I think that this are two excellent reasons to choose a new name for this baby.
 And this is the time where YOUR innovation comes in.
 We are looking for a new name with your help.
 Here are some keywords which might be related to this project:
@@ -32,12 +32,12 @@ Here are some keywords which might be related to this project:
 * data
 * open source
 * people
-* contributer
+* contributor
 * data / web / text mining
 * software repository mining
 * metrics
 * statistics
-* visualisation
+* visualization
 * wow
 * motivation
 * information
@@ -47,8 +47,8 @@ Here are some keywords which might be related to this project:
 * numbers
 * Your keyword here ...
 
-I tried various startup name generators to get some ideas for a new, cool and fancy or usable and logical, name.
-But i was not successful.
+I tried various startup name generators to get some ideas for a new, fresh and fancy or usable and logical, name.
+But I was not successful.
 Maybe you got some ideas?
 EVERY idea is welcome.
 New keywords are welcome, too.
@@ -56,7 +56,7 @@ Please post your idea in the comments or send a tweet to my account [@andygrunwa
 
 The first idea came from [Michael Oehlhof](https://twitter.com/michadu_typo3): *TYPO3 CoMet* - CoMet means Community Metrics.
 Not bad this idea.
-But the TYPO3 prefix is already there and Community metrics are a bit to general.
+But the TYPO3 prefix is already there, and Community metrics are a bit general.
 Or what do you think? Your opinion is welcome too.
 But anyway.
 Thanks for this idea Michael!
