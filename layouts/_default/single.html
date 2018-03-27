@@ -12,24 +12,33 @@
 	<article>
 		<header>
 			<h1 class="title">{{ .Title }}</h1>
-			{{ partial "post-meta" . }}
+			{{ if (eq .Type "post") }}
+				{{ partial "post-meta" . }}
+			{{ end }}
 		</header>
 	{{- end }}
 
 		<section class="post-content">
 			{{ .Content }}
-			<h3 id="typo">Bug? Typo? Contribute!</h2>
-			<p>Found a bug or a typo in this article? Feel free to create a pull request at <a href="https://github.com/andygrunwald/andygrunwald.github.io/blob/develop/content/{{ .File.Path }}"><em>{{ .Title }}</em></a> at GitHub.</p>
 		</section>
 	</article>
+	<!--
+		TODO: Add link to comments on Reddit, HN or twitter
 	<div class="comments">
 		{{ if (not (eq .Site.DisqusShortname "")) | and (not .Params.disableComments) }}
-			{{ template "_internal/disqus.html" . }}
+			Link generation here
 		{{ end }}
+	</div>
+	-->
+	{{ if (eq .Type "post") }}
+	<div class="comments contribute-link">
+		<h3>Bug? Typo? Contribute!</h3>
+		<p>Found a bug or a typo in this article? Feel free to create a pull request at <a href="https://github.com/andygrunwald/andygrunwald.github.io/blob/develop/content/{{ .File.Path }}"><em>{{ .Title }}</em></a> at GitHub.</p>
 	</div>
 	<div class="comments related-posts">
 		{{ if eq .Type "post" }}
 			{{ partial "related" . }}
 		{{ end }}
 	</div>
+	{{ end }}
 {{- end }}

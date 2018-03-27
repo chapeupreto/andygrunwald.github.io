@@ -38,19 +38,17 @@ ul li ul {
 	margin-right: 0.4em;
 }
 
-/* GitHub typo note */
-#typo {
-    margin-top: 2em;
-}
-
 article {
-    padding-bottom: 2%;
+    padding-bottom: 5%;
 }
 
-.comments, .related-posts {
+.comments,
+.related-posts,
+.contribute-link {
     padding: 2% 20%;
 }
 
-.related-posts h3 {
+.related-posts h3,
+.contribute-link h3 {
     margin-top: 0;
 }
