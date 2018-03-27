@@ -12,7 +12,6 @@ videolink = "https://www.youtube.com/watch?v=0lyQ47dQv8A&index=2&list=PLo7mBDsRH
 slides = "https://speakerdeck.com/andygrunwald/learn-redis-the-hard-way-dot-dot-dot-in-production-german-edition"
 picture = "symfony-live-2017-cologne.jpg"
 
-
 city = "Cologne"
 country = "Germany"
 +++
