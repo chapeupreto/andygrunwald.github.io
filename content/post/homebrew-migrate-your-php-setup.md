@@ -28,7 +28,7 @@ You can check what packages are installed via `brew list | grep php` for example
 Check for leftovers in `/usr/local/etc/php/` and remove if necessary.
 Untap the deprecated repo `brew untap homebrew/php`.
 You can check your taps with `brew tap`
-I also had some other deprecated taps that I directly untapped as well because those were deprecated:
+I also had some other taps that I directly untapped as well because those were deprecated:
 
 - `brew untap homebrew/science`
 - `brew untap homebrew/versions`
