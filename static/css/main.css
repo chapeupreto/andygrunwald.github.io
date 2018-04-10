@@ -54,7 +54,7 @@ article {
 }
 
 /* <code> */
-code {
+p code {
     color: #D72A01;
     padding: 2px 3px 1px;
     background-color: #f7f7f9;
